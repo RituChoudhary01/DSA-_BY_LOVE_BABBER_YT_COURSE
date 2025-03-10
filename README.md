@@ -1,2 +1,2 @@
 # DSA-_BY_LOVE_BABBER_YT_COURSE
-In this repo we maintain the notes and question  solve by love barber in their dsa course. 
+In this repo i  maintain the notes and question  of free youtube DSA course by code help.
